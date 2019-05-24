@@ -1,0 +1,22 @@
+{
+  "name": "peliculasjsexpress",
+  "description": "Proyecto de películas en Express",
+  "main": "app.js",
+  "authors": [
+    "Jerónimo Gascón Sánchez <jerogassan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hitses/filmsNode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "moment": "^2.24.0"
+  }
+}
